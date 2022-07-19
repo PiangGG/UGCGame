@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\intermediate\\build\\win64\\unrealgame\\development\\fileoperator\\module.fileoperator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\code\\unrealengine\\ugcgame\\intermediate\\build\\win64\\ugcgame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\intermediate\\build\\win64\\unrealgame\\development\\fileoperator\\definitions.fileoperator.h",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\private\\bpfunctionlibrary.cpp",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\public\\bpfunctionlibrary.h",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\intermediate\\build\\win64\\unrealgame\\inc\\fileoperator\\bpfunctionlibrary.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.31.31103\\include\\fstream",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\private\\fileoperator.cpp",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\public\\fileoperator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

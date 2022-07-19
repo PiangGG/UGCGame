@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FileOperator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Code\UnrealEngine\UGCGame\Intermediate\Build\Win64\UGCGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Code\UnrealEngine\UGCGame\Plugins\FileOperator\Intermediate\Build\Win64\UnrealEditor\Development\FileOperator\Module.FileOperator.cpp.obj"
+"D:\Code\UnrealEngine\UGCGame\Plugins\FileOperator\Intermediate\Build\Win64\UnrealEditor\Development\FileOperator\Module.FileOperator.gen.cpp.obj"
+"D:\Code\UnrealEngine\UGCGame\Plugins\FileOperator\Intermediate\Build\Win64\UnrealEditor\Development\FileOperator\Default.rc2.res"
+/OUT:"D:\Code\UnrealEngine\UGCGame\Plugins\FileOperator\Intermediate\Build\Win64\UnrealEditor\Development\FileOperator\UnrealEditor-FileOperator.lib"

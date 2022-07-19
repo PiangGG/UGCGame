@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\private\\fileoperator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\code\\unrealengine\\ugcgame\\intermediate\\build\\win64\\ugcgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\intermediate\\build\\win64\\unrealeditor\\development\\fileoperator\\definitions.fileoperator.h",
+            "d:\\code\\unrealengine\\ugcgame\\plugins\\fileoperator\\source\\fileoperator\\public\\fileoperator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
